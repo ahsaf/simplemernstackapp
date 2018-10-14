@@ -1,0 +1,17 @@
+.nav{
+    background: #333;
+    
+    
+}
+h2{
+    color: aliceblue;
+    padding: 5px;
+}
+button{
+    margin: 5px;
+    margin-left: 70px;
+}
+a{
+    margin-left:8px;
+    color: red;
+}
